@@ -1,4 +1,7 @@
 # WriteIt.js
+
+## rewriting it in Typescript and support for React.
+
 **_WriteIt.js is javascript library for text writing effect_**.
 
 It is completely attribute based system. tweak few attribute and get completly new animation, **you don't need to write single line of javscript :-)**.
