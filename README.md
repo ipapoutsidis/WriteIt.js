@@ -1,6 +1,6 @@
 # WriteIt.js
 
-## rewriting it in Typescript and support for React.
+## Rewriting it in Typescript and adding support for React.
 
 **_WriteIt.js is javascript library for text writing effect_**.
 
